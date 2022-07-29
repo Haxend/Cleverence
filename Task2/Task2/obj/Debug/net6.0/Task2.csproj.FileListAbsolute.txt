@@ -1,0 +1,15 @@
+P:\Project\Cleverence\Task2\Task2\bin\Debug\net6.0\Task2.exe
+P:\Project\Cleverence\Task2\Task2\bin\Debug\net6.0\Task2.deps.json
+P:\Project\Cleverence\Task2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+P:\Project\Cleverence\Task2\Task2\bin\Debug\net6.0\Task2.dll
+P:\Project\Cleverence\Task2\Task2\bin\Debug\net6.0\Task2.pdb
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.dll
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\refint\Task2.dll
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.pdb
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+P:\Project\Cleverence\Task2\Task2\obj\Debug\net6.0\ref\Task2.dll
